@@ -87,10 +87,3 @@ See the component-specific READMEs for detailed documentation:
 
 - [Frontend Documentation](./frontend/README.md)
 - [Backend Documentation](./backend/README.md)
-
-## Environment Variables
-
-- `REGEX_PATTERN`: Regular expression pattern for validation (default: ^[A-Za-z0-9]+$)
-- `PROCESSING_DELAY`: Delay in milliseconds for job processing (default: 2000)
-
-![Real-Time Regex Validator Screenshot](docs/images/app-screenshot.png)
