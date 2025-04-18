@@ -1,0 +1,5 @@
+# This file exists to keep the certs directory in git
+# Place your SSL certificates here:
+# - ca.pem: CA certificate
+# - service.key: Service key
+# - service.cert: Service certificate 
